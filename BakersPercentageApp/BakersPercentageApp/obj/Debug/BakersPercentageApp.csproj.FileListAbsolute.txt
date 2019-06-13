@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\CWright123Files\BakersPercentageApp\BakersPercentageApp\BakersPercentageApp\bin\Debug\BakersPercentageApp.exe.config
+C:\Users\Administrator\Desktop\CWright123Files\BakersPercentageApp\BakersPercentageApp\BakersPercentageApp\bin\Debug\BakersPercentageApp.exe
+C:\Users\Administrator\Desktop\CWright123Files\BakersPercentageApp\BakersPercentageApp\BakersPercentageApp\bin\Debug\BakersPercentageApp.pdb
+C:\Users\Administrator\Desktop\CWright123Files\BakersPercentageApp\BakersPercentageApp\BakersPercentageApp\obj\Debug\BakersPercentageApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CWright123Files\BakersPercentageApp\BakersPercentageApp\BakersPercentageApp\obj\Debug\BakersPercentageApp.Form1.resources
+C:\Users\Administrator\Desktop\CWright123Files\BakersPercentageApp\BakersPercentageApp\BakersPercentageApp\obj\Debug\BakersPercentageApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CWright123Files\BakersPercentageApp\BakersPercentageApp\BakersPercentageApp\obj\Debug\BakersPercentageApp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CWright123Files\BakersPercentageApp\BakersPercentageApp\BakersPercentageApp\obj\Debug\BakersPercentageApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CWright123Files\BakersPercentageApp\BakersPercentageApp\BakersPercentageApp\obj\Debug\BakersPercentageApp.exe
+C:\Users\Administrator\Desktop\CWright123Files\BakersPercentageApp\BakersPercentageApp\BakersPercentageApp\obj\Debug\BakersPercentageApp.pdb
